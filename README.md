@@ -4,8 +4,6 @@ I am an enthusiastic student at Academia 42, passionate about the world of progr
 
 <h2>About me</h2>
 
-🚀 I am currently studying at Academia 42, where I have been immersed in a collaborative and self-directed learning environment.
-
 💻 I am passionate about mobile application development and cybersecurity. Although I am still a learner in these fields, I find great pleasure and challenge in exploring new technologies and concepts.
 
 🎓 I am constantly looking for opportunities to learn and improve my skills. My experience at 42 has taught me the importance of perseverance and the willingness to face new challenges with enthusiasm.
