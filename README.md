@@ -1,3 +1,5 @@
+![image](https://github.com/pablovilchez/pablovilchez/assets/50591830/40acdcc6-32c4-4f05-a3ba-1d0974d81de8)
+
 <h1>Hi there!! 👋      Welcome to my GitHub repository!</h1>
 
 I am an enthusiastic student at Academia 42, passionate about the world of programming and technology. My focus on 42 has given me the opportunity to cultivate a self-taught mindset and strong adaptability, aspects that I consider essential in the ever-evolving world of technology.
