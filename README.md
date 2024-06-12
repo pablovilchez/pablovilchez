@@ -45,7 +45,7 @@ Hi, I'm Pablo, a passionate and dedicated student at 42 Málaga, Spain. I am cur
 - **Game Development**: I love video games and am currently learning about Unreal Engine to bring my ideas to life.
 
 
-## Projects
+## Featured Projects
 
 - **Minishell**: A simple shell implementation in C.
 - **Cub3d**: A raycasting game project developed in C.
