@@ -1,42 +1,33 @@
 ![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/pablovilchez/pablovilchez/assets/50591830/565d9aa9-1325-42a8-bd54-ae4c5bc67ea5)
 
-# Pablo's GitHub Profile
+# Pol's GitHub Profile
 
 ## About Me
 
-Hi, I'm Pablo, a passionate and dedicated student at 42 Málaga, Spain. I am currently delving deep into the world of programming and technology, aiming to specialize in mobile application development, blockchain development, and video game development.
+Hi, I'm Pol, a passionate and dedicated student at 42 Málaga, Spain. I am currently delving deep into the world of programming and technology, aiming to specialize in mobile application development, blockchain development, and video game development.
 
 ## Skills
 
 ### Languages and Technologies I Know
 
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+![C# Badge](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff&style=flat)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ### Languages and Technologies I'm Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?logo=unrealengine&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
 
-### Basic Knowledge
+### Also used in projects
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
-
 
 ## Interests
 
