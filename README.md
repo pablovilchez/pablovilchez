@@ -10,6 +10,8 @@ Hi, I'm Pol, a passionate and dedicated student at 42 Málaga, Spain. I am curre
 
 ### Languages and Technologies I Know
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![C# Badge](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff&style=flat)
@@ -18,7 +20,6 @@ Hi, I'm Pol, a passionate and dedicated student at 42 Málaga, Spain. I am curre
 
 ### Languages and Technologies I'm Learning
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
@@ -31,9 +32,9 @@ Hi, I'm Pol, a passionate and dedicated student at 42 Málaga, Spain. I am curre
 
 ## Interests
 
-- **Mobile Application Development**: I enjoy creating user-friendly and efficient mobile applications. I'm particularly interested in cross-platform solutions like Kotlin Multiplatform.
+- **Mobile Application Development**: I enjoy creating user-friendly and efficient mobile applications. I'm particularly interested in cross-platform solutions with Flutter.
 - **Blockchain Development**: I'm fascinated by the potential of blockchain technology and am learning about Ethereum and Solidity to build decentralized applications.
-- **Game Development**: I love video games and am currently learning about Unreal Engine to bring my ideas to life.
+- **Game Development**: I love video games and am currently learning to bring my ideas to life.
 
 
 ## Featured Projects
@@ -42,12 +43,16 @@ Hi, I'm Pol, a passionate and dedicated student at 42 Málaga, Spain. I am curre
 - **Cub3d**: A raycasting game project developed in C.
 - **Webserver**: An HTTP server implementation in C++.
 - **Inception**: Create a virtual machine environment with Docker (MariaDB, WordPress, Nginx).
+- **Transcendence**: A real-time chat and gaming application developed in Python (Django) and HTML5, featuring WebSocket-based communication and a PostgreSQL database. Focused on implementing real-time functionalities and secure user authentication.
+- **Swifty Companion**: A mobile application built with Flutter to access 42 API profiles, showcasing user information and skills. Includes secure OAuth2 authentication and responsive design for multiple platforms.
+- **ft_hangouts**: A contact management mobile application in Flutter, integrating SQLite for data persistence. Includes features like adding contacts, sending messages, and initiating calls, all wrapped in a user-friendly interface.
 
 ## Connect with Me
 
-&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/pablo-vr-dev/)
+&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/pablo-vilchez-dev/)
 
 
 ## Goals
 
-I am currently seeking internship opportunities in software development, with a strong interest in mobile applications, blockchain, and video games. While these are my desired specialties, I am open to any opportunities related to these fields as well as software development in general. I am eager to apply my skills and knowledge, and to learn from experienced professionals in the industry.
+I am currently looking for an internship or junior position in software development, with a strong interest in mobile applications.
+I am eager to apply my skills and knowledge, and learn from experienced professionals in the industry.
