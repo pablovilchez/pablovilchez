@@ -20,6 +20,7 @@ Hi, I'm Pol, a passionate and dedicated student at 42 Málaga, Spain. I am curre
 
 ### Languages and Technologies I'm Learning
 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
