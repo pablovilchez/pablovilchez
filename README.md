@@ -40,13 +40,18 @@ Hi, I'm Pol, a passionate and dedicated student at 42 Málaga, Spain. I am curre
 
 ## Featured Projects
 
-- **Minishell**: A simple shell implementation in C.
-- **Cub3d**: A raycasting game project developed in C.
-- **Webserver**: An HTTP server implementation in C++.
-- **Inception**: Create a virtual machine environment with Docker (MariaDB, WordPress, Nginx).
-- **Transcendence**: A real-time chat and gaming application developed in Python (Django) and HTML5, featuring WebSocket-based communication and a PostgreSQL database. Focused on implementing real-time functionalities and secure user authentication.
-- **Swifty Companion**: A mobile application built with Flutter to access 42 API profiles, showcasing user information and skills. Includes secure OAuth2 authentication and responsive design for multiple platforms.
+- **Mi Fortitú**: A mobile application built with Flutter to manage and explore 42 student profiles through the official API. Implements OAuth2 authentication, RESTful communication, and a clean, modular architecture for scalability and maintainability.
+- **FatumLink Cthulhu**: A desktop application developed with Flutter to assist game masters in running Call of Cthulhu sessions. Provides tools to manage investigators, NPCs, items, and locations, with a flexible resource system and a panel-based interface designed for quick navigation during gameplay.
+- **Cinemapedia**: A Flutter-based mobile application to browse movie details, discover the latest releases, and search for films. Integrates The Movie Database (TMDb) API, with responsive design, smooth navigation, and local caching for improved performance.
+- **KingCounter**: A Flutter mobile application designed to keep track of scores in Skull King card games. Supports multiple players, automatic round scoring, and a streamlined interface focused on quick input and readability during matches.
 - **ft_hangouts**: A contact management mobile application in Flutter, integrating SQLite for data persistence. Includes features like adding contacts, sending messages, and initiating calls, all wrapped in a user-friendly interface.
+- **Swifty Companion**: A mobile application built with Flutter to access 42 API profiles, showcasing user information and skills. Includes secure OAuth2 authentication and responsive design for multiple platforms.
+- **Transcendence**: A real-time chat and gaming application developed in Python (Django) and HTML5, featuring WebSocket-based communication and a PostgreSQL database. Focused on implementing real-time functionalities and secure user authentication.
+- **Inception**: Create a virtual machine environment with Docker (MariaDB, WordPress, Nginx).
+- **Webserver**: An HTTP server implementation in C++.
+- **Cub3d**: A raycasting game project developed in C.
+- **Minishell**: A simple shell implementation in C.
+
 
 ## Connect with Me
 
