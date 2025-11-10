@@ -8,6 +8,8 @@ Hi, I'm Pol, a passionate and dedicated student at 42 Málaga, Spain. I am curre
 
 ![Portfolio](https://github.com/pablovilchez/portfolio)
 
+![Mi Fortitú](https://github.com/pablovilchez/portfolio/blob/main/projects/mi%20fortitu.md) (only for 42 students)
+
 ## Skills
 
 ### Languages and Technologies I Know
