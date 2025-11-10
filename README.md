@@ -6,6 +6,8 @@
 
 Hi, I'm Pol, a passionate and dedicated student at 42 Málaga, Spain. I am currently delving deep into the world of programming and technology, aiming to specialize in mobile application development, blockchain development, and video game development.
 
+![Portfolio](https://github.com/pablovilchez/portfolio)
+
 ## Skills
 
 ### Languages and Technologies I Know
